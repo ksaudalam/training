@@ -1,12 +1,13 @@
 
 import ReactDOM from 'react-dom';
-import App from './App';
+// import App from './App';
 import './index.css'
+import Form from './Form';
 
 
 
 ReactDOM.render(
-  <App/>,
+  <Form/>,
   document.getElementById('root')
 );
 
